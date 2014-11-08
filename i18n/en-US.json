@@ -1,0 +1,8 @@
+{
+	"en-US" : {
+		"STAT_DEX" : "Dexterity",
+		"STAT_INT" : "Intelligence",
+		"STAT_STR" : "Strength",
+		"STAT_VIT" : "Vitality"
+	}
+}
